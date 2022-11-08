@@ -1,0 +1,99 @@
+#header {
+    background-color: #9B6483;
+    padding: 5px;
+}
+
+body {
+    background-color: #AF839B;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.menu ul {
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.menu li {
+   margin: 10px;
+}
+.menu a {
+   color: black;
+}
+
+.isi span {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: black;
+
+    font-size: 4.5em;
+
+}
+
+.isi {
+    margin: 20px;
+    text-align: justify;
+}
+
+
+blockquote {
+
+    background-color: gray;
+
+    text-align: center;
+
+}
+
+span#soekarno {
+
+    font-style: italic;
+
+}
+
+.ngvn {
+
+    text-align: center;
+
+    padding: 10px;
+
+}
+
+h2 {
+
+    color: blue;
+
+    padding: 5px;
+
+}
+
+img {
+
+    width: 20%;
+
+}
+
+.gambar {
+
+    text-align: center;
+
+}
+
+.koleksi {
+
+    text-align: center;
+
+}
+
+.promo {
+    
+    text-align: center;
+}
+
+.promo h2 {
+    color: black;
+}
